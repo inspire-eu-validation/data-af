@@ -48,8 +48,9 @@ IR-ISDSS <a name="ref_IR-ISDSS"></a>   | [Commission Regulation (EU) No 1089/201
 
 | Identifier                                                        | Status   | Test case in [TG DS-AF](#ref_TG_DS_AF)  |
 | ----------------------------------------------------------------- | -------- | ------------ |
-| [Code list values](./code-list-values.md)  | Draft  | A.1.3  |
-| [Constraints](./constraints.md)  | Draft  | A.1.6  |
+| [Code list values of the Activity Complex application schema](./act-core-code-list-values.md)  | ready for review  | A.1.3  |
+| [Code list values](./code-list-values.md)  | ready for review  | A.1.3  |
+| [Constraints](./constraints.md)  | ready for review  | A.1.6  |
 
 
 ## XML namespace prefixes <a name="namespaces"></a>
