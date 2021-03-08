@@ -50,7 +50,6 @@ TG DS Template <a name="ref_TG_DS_tmpl"></a>   | [INSPIRE Data Specification Tem
 
 | Identifier                                                        | Status   | Test case in [TG DS-AF](#ref_TG_DS_AF)  |
 | ----------------------------------------------------------------- | -------- | ------------ |
-| [Code lists](./code-list.md)  | ready for review  | A.5.1 |
 | [Feature references](./features.md)  | ready for review  | A.1.4 |
 
 ## XML namespace prefixes <a name="namespaces"></a>
