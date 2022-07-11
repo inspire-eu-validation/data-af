@@ -30,4 +30,4 @@ The namespace prefixes used as described in [README.md](./README.md#namespaces).
 
 Abbreviation                                          |  XPath expression
 ----------------------------------------------------- | ------------------------------------------------------------------
-features <a name="features"></a>   |  //schema-element(af:Holding)
+features <a name="features"></a>   |  //schema-element(af:Holding) \|  //schema-element(af:Site)
